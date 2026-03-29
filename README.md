@@ -27,7 +27,7 @@ Open http://127.0.0.1:5000 in Chrome
 
 ## Research Context
 Built as part of HCI research internship application to 
-Centre for Human-Computer Interaction (CHCI), IIT Mandi.
+Centre for Human-Computer Interaction (CHCI).
 Explores affective computing and emotion-aware adaptive interfaces.
 
 ## Author
